@@ -1,0 +1,386 @@
+Archivo
+Nuevo
+Abrir
+Guardar
+Guardar Como
+Salir
+&Ver
+&Panel de Dias
+Opciones
+Registros
+Nuevo
+Modificar
+Eliminación
+Eliminar Todo
+Eliminar Selecionado
+Desplazar
+Anterior
+Siguiente
+Salida
+Puerto USB*
+Opciones de Archivo
+Rutas de Archivo
+Automatizar Programa
+Ejecutar cuando inicie el pc
+Usuario
+Datos personales
+Utilizar Manualmente
+Dispositivo
+Calendario
+Generador de Rutinas de Eventos programables
+Visor
+Ventana
+Ayuda
+Configurar comentarios
+Configurar Idioma
+Acerca de Virtual Martin Temporize
+Acerca de Virtual Martin Temporize v1.7
+Circuito Electrónico
+---> Donativo  <---
+&Mostrar todos los Meses
+&Solo definidos Actuales
+&Historial
+Opciónes de modificado
+&Modificado de datos
+&Oprimiendo los bótones
+&Hora
+&Tipo
+&Filtro
+&Int Entrada
+&Int Salida
+&Texto Entrada
+&Texto Salida
+&Lunes
+&Martes
+&Miercoles
+&Jueves
+&Viernes
+&Sabados
+&Domingos
+&Tipo de Aplicado:
+Se niegan las opciones oprimidas
+Se niegan las opciónes no oprimidas
+&Aplicar
+&Salir
+&C: on/off
+&Restaurar
+Generador de Rutinas
+&Lista Desplegable
+&Programa Desplegable
+&Opciones de Modificado
+&Hora:
+&Tipo:
+&Filtro:
+&Int:                                  [Entrada]
+&Int:                                  [Salida]
+&DIAS
+&Lunes
+&Martes
+&Miercoles
+&Jueves
+&Viernes
+&Sabados
+&Domingos
+&No existe ningun elemento de evento.
+&Existen actualmente
+&elementos de evento
+&elemento de evento
+&[ENTRADA]
+&[SALIDA]
+&Cancelar
+&Crear Evento:              
+&Crear Eventos:             
+&Modificar
+No hacer nada *
+Apagar el Equipo
+Apagar y reiniciar el equipo
+Anular el Apagado de equipo
+Equipo que se apagara / reiniciara / anulara
+Establecer el tiempo de espera de apagado.
+Comentario de apagado máximo, 127 caracteres
+Forzar el cierre de todas las aplicaciones sin advertir
+Ingrese descripción máximo, 127 caracteres
+&Sin dialogo...
+&Tiempo =
+encendido.
+Hora:           programada
+Tipo:           Entrada o Salida
+Filtro:         Entrada o Salida o Aleatorio
+Intervalo:      Entrada
+Intervalo:      Salida
+Dias:           lunes
+Dias:           martes
+Dias:           miercoles
+Dias:           jueves
+Dias:           viernes
+Dias:           Sabados
+Dias:           Domingos
+Comentarios:    Entada
+Comentarios:    Salida
+Auto:           Apagar Encender etc*
+Historial de Rutas
+&Historial de Archivos definidos
+&Cancelar
+&Cargar
+&Borrar Selección
+&Borrar Todo
+&Usar Archivo
+&Des Usar Archivo
+&Aceptar
+Quieres utilizar este archivo con  Microtime 
+¿ Quieres eliminar el Archivo usado de Memoria ?
+Iniciar con Windows Automaticamente
+&¿ Arrancar con Windows ?
+&Arrancar
+&No Arrancar
+&Aceptar
+Cuando Inicie o Reinicie Windows Virtual Martin temporize Arrancara con Windows
+ Hubo un error, Para Iniciar Con Windows S.O
+Se elimino el Arranque Automatico en Windows S.O
+Circuito Electrónico
+Esqemas
+&Imprimir
+&Aceptar
+Estado Grafico de la Ventana Principal
+Estado:
+&Cancelar
+&Aplicar
+Ventana Restaurada
+Ventana Minimizada
+Ventana Maximizada
+Personalizar datos
+Datos del Creador de los Timbres
+Aceptar
+Nombre :
+Segundo Nombre :
+Apellido :
+Segundo Apellido :
+Dirección :
+Segunda Dirección :
+Localidad :
+Pais :
+Teléfono :
+Celular :
+Correo Electrónico :
+Facebook :
+Comentario General :
+Cancelar
+Limpiar
+&Aceptar
+ ¿ Quieres Limpiar Todos los Datos en Pantalla ?
+Los datos se guardaron en memoria con éxito
+Funciones al Sistema
+Funciones de Sistema Operables
+comentarios:
+No hacer nada *
+Apagar el Equipo
+Apagar y reiniciar el equipo
+Anular el Apagado de equipo
+Equipo que se apagara / reiniciara / anulara
+Establecer el tiempo de espera de apagado.
+Comentario de apagado máximo, 127 caracteres
+Forzar el cierre de todas las aplicaciones sin advertir
+Ingrese descripción máximo, 127 caracteres
+&Sin dialogo...
+&Tiempo =
+encendido.
+Cancelar
+Aplicar
+Sin Dialogo
+Tiempo:
+Impresor por Cantidad
+Copias:
+-
++
+Cancelar
+Mandar a Imprimir las Copias
+Archivos actuales en la Memoria del Software
+¿Existen Archivos en memoria que desea Hacer?
+id
+Hora
+Tipo
+Segundos
+Comentario
+Salir
+Guardar y Salir
+Cancelar
+titulo programa
+Agregar Nuevo Evento
+Funciones al sistema
+Hora :
+Tipo :
+Intervalo :
+Filtro :
+Lunes
+Martes
+Miercoles
+Jueves
+Viernes
+Sabados
+Domingos
+Comentario:
+comentarios:
+Cancelar
+color de:Pintagrama
+Crear
+Modificar
+Modificar Evento.
+Entrada
+Salida
+Solo Hora
+Hora y Dia
+Quieres Aplicar las Modificaciones del Evento.
+Personalizar Idioma
+Archivo
+Valor
+Renombrar
+Idioma
+Cancelar
+Cargar Idioma
+Guardar Archivo
+Aplicar Idioma
+Pizarrón de Horarios Programados.
+Pizarrón de Tipo Entrada o Salida.
+Pizarrón de Tiempo en segundos.
+Pizarrón de Comentarios.
+enero
+Febrero
+Marzo
+Abril
+Mayo
+Junio
+Julio
+Agosto
+Septiembre
+Oct / Nob / Dic
+Ir al mes actual
+Visor de Eventos Programados Actualmente
+id
+Hora
+Tipo
+Segundos
+Comentario
+Imprimir
+Imprimir Más
+Evento
+Añadir comentarios
+Comentario
+Añadir
+Cargar
+Cancelar
+Eliminar Seleciónado
+Eliminar Todo
+Guardar
+¿Quieres eliminar este Comentario de la Lista?
+¿Quieres eliminar Todos los Comentarios?
+tiempo
+Ingrese una Opción del Sistema
+ver los derechos de este software en el Ambito Legal.
+ver quienes participaron en Virtual Martin Temporize v1.7
+Versión:
+La información del sistema no está disponible en este momento
+.:: Acerca de Virtual Martin Temporize v1.7 ::.
+Compilado
+software pensado y creado 
+Programación
+Diseño gráfico
+Ide 's
+Estructuras
+Estadísticas
+Análisis
+Herramienta Pizarrón
+Herramienta Generador dinámico de Horarios
+Herramienta Meses Virtuales
+Comparación
+Artilugios gráficos para API
+Entrada y Salida de Archivos
+Algoritmos
+Traducción y Idiomas por
+Traductor de Google (c)
+Librerías y cabeceras de I/0 
+Microsoft Corporation (c)
+Dinamismo y estructurado
+.exe
+Tipo de versión
+usuarios en general
+Advertencia este programa no esta protegido por leyes de derechos de autor ni otros tratados internacionales la reproducción o distribución no autorizada de este programa o de cualquier parte del mismo no da a responsabilidades sibiles ni criminales y no serán perseguidas
+&Info. del sistema...
+&Aceptar
+Recursos
+Autores
+Virtual Martin Temporize v1.7
+para cumplir mi sueño de ir a EE:UU
+Amo mucho a EE:UU
+con cuenta propia...
+Con tarjetas de créditos
+&Colaborar
+&Aceptar
+Virtual Martin temporize: Calendario
+&Calendario Grafico
+&Ir a la fecha de Hoy
+&Salir
+Utilizar Timbre Manualmente
+&Encendido
+&Apagado
+Estado: Apagado
+Estado: Encendido
+&Aceptar
+Led Que Muestra el Estado del Timbre
+Evento en ejecución
+El Timbre se esta ejecutando...
+Comentarios
+Cargando...
+Lunes
+Martes
+Miercoles
+Jueves
+Viernes
+Sabados
+domingos
+DIAS
+Solo Hora.
+Timpo Total :
+Timpo Trascurrido :
+Timpo Restante :
+Hora que se Activo :
+Tipo :
+&Cerrar
+Virtual Martin Temporize:  Reloj Digital
+Reloj del Sistema
+fecha:
+hs
+&Aceptar
+Puerto de Salida
+Usted Tiene que tener conocimiento antes de realizar algun cambio Aquí.
+&Salida 5v
+Pin 1
+Pin 2
+Pin 3
+Pin 4
+Pin 5
+Pin 6
+Pin 7
+Pin 8
+&Cancelar
+&Normal
+&Aceptar
+¿ Quieres Guardar los Cambios ?
+ Abrir Archivo
+Virtual Martin temporize
+Todos los Archivos
+el Año minimo es 1753
+Deseas eliminar todos los timbres con eventos Programados
+Opciones de Eliminación
+Deseas eliminar este timbre con el Evento
+Opciones de Eliminación
+para poder liminar seleccione un evento
+ v1.7
+ Guardar Archivo
+todos los Archivos
+Nuevo
+No le asignaste un nombre de archivo
+Aleatorio
+seg. 
+D LMMJV  S
+ ------------------------------------------
+ ------------------------------------------

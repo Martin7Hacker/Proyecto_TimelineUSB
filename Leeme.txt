@@ -1,0 +1,59 @@
+Suscrivite a YouTube en:
+https://www.youtube.com/channel/UCEL746zBrw1bJMMkyDxgQAQ
+
+Agregame a Facebook en :
+https://www.facebook.com/hacker.martin0
+
+Agregame a Whatsap
+598091432320
+598091432320
+
+Donate:
+http://martinsoft0.blogspot.com.uy/p/donar.html
+
+Hola nuevo miembro de la familia de programas 
+de temporizador de Timeline . Martinsoft
+ para comenzar con la instalación dale a siguiente. Este
+ programa es 100% creado Con Microsoft Visual Basic 6.0
+ todo el programa fue creado por mí mediante librerías 
+módulo de código de Microsoft Visual Basic 6.0. Para los
+ recreos los tiempos de descanso las salidas los cambios
+ de turno tiempo de descanso de los trabajadores y otras
+ funciones fue un 70% creado en el Bar de Atenas en Tala
+ canelones, la versión anterior del mismo era mediante el
+ puerto LPT1 mediante el puerto paralelo, esta nueva 
+versión utiliza el mismo formato encriptación de archivos
+ digitales Qué es punto *.vmt* el funcionamiento del sistema
+ es mediante una placa de Arduino cargando los mismos drivers
+ y comunicándose con los protocolos del puerto USB mediante
+ un driver de comunicación I2C mediante un programador 
+Arduino este sistema 100% Open source el código fuente
+ ya está mismo en el instalador más todas sus librerías
+ y el propio Instalador del sistema más el propio Driver
+ que se tiene que cargar en el Arduino. Todo este programa
+ fue desarrollado por mí para el proyecto final de UTU
+ canelones en el año 2011 y lo pude desarrollar gracias
+ a Jehová, para poder comercializarlo como una pequeña empresa
+ de creación de software y Hardware todo este sistema se lo 
+debo a Dios y los conocimientos adquiridos en el curso de Microsoft 
+también Círculo informático, material de la web y exploracion de recursos, 
+ y también en la UTU del curso de electro electrónica También,
+ video tutoriales de Youtube de montaje de sistemas de Arduino
+ y otros elementos del sistema todo el programa guardan los 
+archivos independientes se puede cargar automáticamente en cualquier
+ ordenador con el sistema operativo Windows los recursos básicos y 
+tener una tarjeta gráfica 800 por 600 en el caso que se quiera programar
+ los timbres o se puede utilizar solo la torre de la PC sin necesidad
+ encender el monitor más adelante haré una versión con el RTC para que
+ sea sólo mediante la placa Arduino pero esta versión se puede programar
+ un escripto un escripta director docente etc* También cualquier persona
+ con conocimiento mínimos de informática ya que es un programa parecido al
+ Word que crea archivos automáticos y sus archivos se cargan en el sistema
+ cuando arranque el sistema operativo Windows mediante el menú de arranque 
+automatizado en el registro del sistema Espero que lo disfruten y para poder
+ utilizar el software pueden utilizarlo automáticamente. Pero nada, Para eso
+ necesitan crear o comprar el Hardware valor $77  dólares desde ya Muchas gracias!.
+Att Martin Grasso. 03:13 a.m. 28/12/2017.
+
+
+

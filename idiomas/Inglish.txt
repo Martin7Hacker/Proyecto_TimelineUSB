@@ -1,0 +1,386 @@
+File
+New
+Open
+Save
+Save As...
+Exit
+View
+Days
+Settings
+Records
+New
+Modify
+Remove
+Delete All
+Delete
+Displace
+Next
+Back
+Output
+USB* Port
+Options File
+File Routes
+Automating Program
+Run when you start the PC
+User
+User Information
+User Manually
+Device
+Calendar
+Wizard Asistent
+View
+Window
+Help
+Set Comments
+Set Language
+About Virtual Martin temporize v1.7
+About Virtual Martin temporize v1.7
+Electronic Circuit
+---> Donation <---
+&Show All Months
+&Alone defined Current
+&Record
+Modified Options
+Modified and Data
+&Pressing the Buttons
+&Hour
+&Type
+&Filter
+&Int Entry
+&Int Exit
+&Text Entry
+&Text Exit
+&Monday
+&Tuesday
+&Wednesday
+&Thursday
+&Friday
+&Saturdays
+&Sundays
+&Applied type:
+Oppressed Refuse Options
+Options Are Not Oppressed Refuse
+&Apply
+&Cancel
+& C: on / off
+&Restore
+Wizard Asistent
+&Drop Down List
+&Drop Down Program
+Modified and Options
+&Hour:
+&Type:
+&Filter:
+&Int:                                   [Entry]
+&Int:                                   [Exit]
+&DAYS
+&Monday
+&Tuesday
+&Wednesday
+&Thursday
+&Friday
+&Saturdays
+&Sundays
+&There is no element event.
+&There currently
+&Items event
+&Element event
+&[ENTRY]
+&[Exit]
+&Cancel
+&Create Event
+&Create Events:
+&Modify
+Do nothing *
+Turn off the computer
+Shut down and restart the computer
+Cancel Off Team
+Equipment in shutdown / restart / abort
+Set the timeout off.
+Comment off maximum of 127 characters
+Force Quit all applications without warning
+Enter maximum description, 127 characters
+& No dialogue ...
+& Time =
+power on.
+Time: scheduled
+Type: Input or Output
+Filter: In or Out or Random
+Range: Entry
+Range: Exit
+Days:  Monday
+Days:  Tuesday
+Days:  Wednesdays
+Dias:  Thursday
+Dias:  Friday
+Days:  Saturdays
+Days:  Sundays
+Comments: Entada
+Comments: Exit
+Auto: On /off *
+History Tours
+&History Files defined
+&Cancel
+&Load
+&Delete All
+&Delete
+&Use File
+&Not Use File
+&Accept
+You want to use this file with Microtime
+Do you want to delete the file used Memory?
+Start with Windows Automatically
+& ¿Start with Windows?
+&Yes
+&Not Start
+&Accept
+When you start or restart Windows Virtual Martin temporize start with Windows
+ There was an error, To Start With Windows S.O
+Automatic Boot was removed in Windows S.O
+Electronic Circuit
+esqemas
+&Print
+&Accept
+Graphic status of the Main Window
+State:
+&Cancel
+&Apply
+Restored  Window
+Minimized Window
+Maximized Window
+Customize Data
+Data Creator of the Rings
+&Accept
+Name:
+Second Name:
+Last Name:
+Second Surname:
+Address:
+Second Address:
+Location :
+Country:
+Phone:
+Cell Phone:
+Email:
+Facebook:
+General Comment:
+Cancel
+&Clear
+&Accept
+You want to wipe all data on screen?
+The data stored in memory successfully
+System Functions
+Operation functions System
+Comments:
+Do Nothing *
+Turn off the Computer
+Shut down and restart the Computer
+Cancel Off Computer
+Computer in Shutdown / Restart / Abort
+Set the Timeout off.
+Comment off maximum of 127 characters
+Force Quit all applications without warning
+Enter maximum description, 127 characters
+& No Dialog ...
+& Time =
+Power On.
+&Cancel
+&Apply
+No Dialog
+Weather:
+Impresor by Quantity
+Do you copy:
+-
++
+Cancel
+Send to Print Copies
+Current files in Memory Software
+Are there files in memory you want to Do?
+id
+Hour
+Type
+Seconds
+Commentary
+Exit
+Save and exit
+Cancel
+program title
+Add New Event
+System functions
+Hour:
+Type:
+Interval:
+Filter:
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+saturdays
+Sundays
+Commentary:
+Comments:
+Cancel
+color: Pintagrama
+Create
+Modify
+Modify Event.
+Entry
+Exit
+only Time
+Time and Day
+You want to implement amendments to the Event.
+Customize Language
+File:
+Value:
+Rename
+Language
+Cancel
+Load Language
+Save File
+Apply Language
+Blackboard scheduled times.
+Type board Entry or Exit.
+Time board in Seconds.
+Comments blackboard.
+January
+February
+March
+April
+May
+June
+July
+August
+September
+Oct / Nob / Dec
+Go To Current Month
+Currently Scheduled Events View
+id
+Hour
+Type
+Seconds
+Commentary
+Print
+Print Plas
+Event
+Add Comments
+Commentary
+Add
+Load
+Cancel
+Delete
+Delete All
+Save
+Do you want to delete this comment from the list?
+Do you want to delete all comments?
+Time
+Enter a System Option
+see the rights of this software in the legal field.
+see who participated in Virtual Martin temporize v1.7
+Version:
+The system information is not available at this time
+. :: About Virtual Martin temporize v1.7 ::.
+Compiled
+software designed and created
+Programming
+Graphic design
+Ide 's
+structures
+Statistics
+Analysis
+Blackboard tool
+Dynamic Generator tool Schedules
+Virtual tool Months
+Comparison
+graphics devices for API
+Input and Output Files
+algorithms
+Translation and Languages ??by
+Google Translate (c)
+Libraries and header I / 0
+Microsoft Corporation (c)
+Dynamism and structured
+.exe
+Release Type
+general users
+Warning this program is not protected by copyright laws and international treaties the unauthorized reproduction or distribution of this program or any part thereof does not give sibiles or criminal liability and will not be prosecuted
+&Info. of the system...
+&Accept
+Resurce
+authors
+Virtual Martin temporize v1.7
+to fulfill my dream of going to EE: UU
+I really love EE: UU
+with its own account ...
+Credit card
+&Donate
+&Accept
+Virtual Martin temporize: Calendar
+&Graphic Calendar
+&Go To Date Today
+&Exit
+Use Rigns Manually
+&Power On
+&Off
+Status: Off
+Status: On
+&Accept
+LED showing the status of Timbre
+Running event
+The Timbre is running ...
+Comments
+Loading...
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+saturdays
+Sundays
+DAYS
+Only Time.
+Time Total:
+After expiry Timpo:
+Timpo Remaining:
+Active time that:
+Type:
+&Close
+Virtual Martin temporize: Digital Clock
+System Clock
+date:
+hs
+&Accept
+Output port
+You have to have knowledge before making any changes here.
+&Output 5v
+Pin 1
+Pin 2
+Pin 3
+Pin 4
+Pin 5
+Pin 6
+Pin 7
+Pin 8
+&Cancel
+&Normal
+&Accept
+You want to Save Changes?
+Open File
+Virtual Martin temporize
+All the files
+the minimum is Year 1753
+You want to delete all scheduled events timbres
+Removal options
+You want to remove this ring with Event
+Removal options
+liminal power to select an event
+v1.7
+Save File
+All the files
+New
+Do not you assigned a file name
+Random
+sec.
+S MTWTF S
+------------------------------------------
+------------------------------------------

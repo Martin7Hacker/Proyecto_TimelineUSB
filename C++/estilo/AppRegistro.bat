@@ -1,0 +1,2 @@
+Rc.exe estiloXP.rc
+
